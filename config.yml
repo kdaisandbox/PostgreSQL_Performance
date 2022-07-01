@@ -1,6 +1,6 @@
 postgre:
-    host: 'postgre-flex-001.postgres.database.azure.com'
+    host: 'postgre-001.c6kxxjx3ymhv.eu-central-1.rds.amazonaws.com'
     port: '5432'
-    user: 'ttadmin'
+    user: 'padmin'
     password: 'Admin123'
     dbname: 'perf_test_db'
